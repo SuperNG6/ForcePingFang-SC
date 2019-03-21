@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         强制使用苹方
 // @namespace    https://github.com/SuperNG6/ForcePingFang-SC.git
-// @version      1.3.0
+// @version      1.4.0
 // @description  强制使用苹方字体
 // @author       NG6
 // @include      *
